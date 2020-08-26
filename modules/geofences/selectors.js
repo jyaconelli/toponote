@@ -1,0 +1,1 @@
+export const getGeofences = (state) => state.geofences.geofences
